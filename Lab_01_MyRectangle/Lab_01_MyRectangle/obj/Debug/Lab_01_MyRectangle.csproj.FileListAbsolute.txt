@@ -1,0 +1,7 @@
+C:\Users\jerry\Google 云端硬盘\BIT_2018_S3\ITC513\Lab\Lab_01_MyRectangle\Lab_01_MyRectangle\bin\Debug\Lab_01_MyRectangle.exe.config
+C:\Users\jerry\Google 云端硬盘\BIT_2018_S3\ITC513\Lab\Lab_01_MyRectangle\Lab_01_MyRectangle\bin\Debug\Lab_01_MyRectangle.exe
+C:\Users\jerry\Google 云端硬盘\BIT_2018_S3\ITC513\Lab\Lab_01_MyRectangle\Lab_01_MyRectangle\bin\Debug\Lab_01_MyRectangle.pdb
+C:\Users\jerry\Google 云端硬盘\BIT_2018_S3\ITC513\Lab\Lab_01_MyRectangle\Lab_01_MyRectangle\obj\Debug\Lab_01_MyRectangle.csprojAssemblyReference.cache
+C:\Users\jerry\Google 云端硬盘\BIT_2018_S3\ITC513\Lab\Lab_01_MyRectangle\Lab_01_MyRectangle\obj\Debug\Lab_01_MyRectangle.csproj.CoreCompileInputs.cache
+C:\Users\jerry\Google 云端硬盘\BIT_2018_S3\ITC513\Lab\Lab_01_MyRectangle\Lab_01_MyRectangle\obj\Debug\Lab_01_MyRectangle.exe
+C:\Users\jerry\Google 云端硬盘\BIT_2018_S3\ITC513\Lab\Lab_01_MyRectangle\Lab_01_MyRectangle\obj\Debug\Lab_01_MyRectangle.pdb
