@@ -42,10 +42,12 @@ namespace Lab_01_MyRectangle
         }
         public double CaclAreas()
         {
+            //double c = height * width;
             return height * width;
         }
         public double CaclPerimeter()
         {
+
             return (height + width)*2;
         }
         public override string ToString()

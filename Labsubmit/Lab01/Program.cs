@@ -22,11 +22,11 @@ namespace Lab_01_MyRectangle
                 
                 input = Console.ReadLine();
             }
-            foreach (Rectangle sa in rlist)
-            {
+            foreach (Rectangle sa in rlist){
+                
                 Console.WriteLine(sa);
-                Console.WriteLine("Perimeter: "+sa.CaclPerimeter());
-                Console.WriteLine("Area: "+sa.CaclAreas());
+                Console.WriteLine("Perimeter: "+ sa.CaclPerimeter().ToString("f1"));
+                Console.WriteLine("Area: "+ sa.CaclAreas().ToString("f1"));
                 Console.WriteLine("#");
             }
             
