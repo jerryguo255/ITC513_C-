@@ -1,0 +1,4 @@
+trex,2,dinosaur,true
+tui,2,bird,false
+dodo,2,bird,true
+antelope,4,mammal,false
