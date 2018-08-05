@@ -12,7 +12,7 @@ namespace Lab_03_AnimalSpecies_I
     {
         static void Main(string[] args)
         {
-            StreamReader r = new StreamReader("animals.txt");
+            StreamReader r = new StreamReader(@"/data/animals.txt");
             string s = "";
             int l = 0;
             string c = "";
